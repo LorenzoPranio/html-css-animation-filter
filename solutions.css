@@ -55,6 +55,12 @@
 
 /*ESERCIZIO 8*/
 
+.ex-8-img:hover{
+    filter: hue-rotate(180deg) grayscale(50%);
+    border-radius: 20%;
+    transition: filter 5s, border-radius 5s;
+}
+
 /*ESERCIZIO 9*/
 
 /*ESERCIZIO 10*/
