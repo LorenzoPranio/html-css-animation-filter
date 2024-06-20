@@ -48,6 +48,11 @@
 
 /*ESERCIZIO 7*/
 
+.ex-7-img:hover{
+    filter:invert(100%) hue-rotate(180deg);
+    transition: filter 5s;
+}
+
 /*ESERCIZIO 8*/
 
 /*ESERCIZIO 9*/
